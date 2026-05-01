@@ -636,7 +636,7 @@
         }
 
         /* Partie responsive mobile */
-        @media (max-width: 480px ) {
+        @media (max-width: 414px ) {
             .s1 {
                 width: 90%;
                 height: 840px;
